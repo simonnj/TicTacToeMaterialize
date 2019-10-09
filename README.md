@@ -1,2 +1,0 @@
-# TicTacToeMaterialize
-Created with CodeSandbox
